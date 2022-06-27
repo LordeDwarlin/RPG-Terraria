@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MWUCznh5DfVqx3egyHH10yD+1Xt9dEOETBrgICOIfOsVvUUN/qm+mxRFt9+h51QO+Qnw8WWmGbDh6pk0uA7FMg==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\dwarl\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\RPGARIA\\RPGARIA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dwarl\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

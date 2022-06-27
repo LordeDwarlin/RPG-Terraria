@@ -1,0 +1,12 @@
+{
+    "options":
+    [
+    {
+    "name":"Key Ability 1",
+    "default":"Mouse 3",
+    "type":"Boolean",
+    "notify":true,
+    "notifyOnChange":true
+    }   
+    ]
+}

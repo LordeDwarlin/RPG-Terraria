@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\dwarl\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TerraRPG\\TerraRPG.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\dwarl\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TerraRPG\\TerraRPG.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\dwarl\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TerraRPG\\TerraRPG.csproj",
+        "projectName": "TerraRPG",
+        "projectPath": "c:\\Users\\dwarl\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TerraRPG\\TerraRPG.csproj",
+        "packagesPath": "C:\\Users\\dwarl\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\dwarl\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TerraRPG\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dwarl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "tModLoader.CodeAssist": {
+              "target": "Package",
+              "version": "[0.1.*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

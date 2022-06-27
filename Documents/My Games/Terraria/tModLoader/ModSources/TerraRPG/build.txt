@@ -1,0 +1,3 @@
+displayName = TerraRPG
+author = JRMB
+version = 0.5
